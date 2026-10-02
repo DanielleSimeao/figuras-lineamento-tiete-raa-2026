@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se utilizar estas figuras, cite este repositório."
+title: "Figuras suplementares — possível projeção do Lineamento Tietê"
+type: dataset
+authors:
+  - family-names: "Rocha"
+    given-names: "Danielle Simeão Silverio"
+year: 2026
+repository-code: "https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026"
+url: "https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026"
+abstract: >-
+  Figuras suplementares usadas para discutir a hipótese de uma possível projeção
+  do Lineamento Tietê em direção à Bacia de Santos, com integração de
+  sensoriamento remoto, gravimetria e magnetometria.
+keywords:
+  - "Lineamento Tietê"
+  - "Bacia de Santos"
+  - "sensoriamento remoto"
+  - "gravimetria"
+  - "magnetometria"
+  - "métodos potenciais"

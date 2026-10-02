@@ -1,0 +1,31 @@
+PASSOS PARA PUBLICAR NO GITHUB
+
+1. Abra o repositório público já criado:
+   https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026
+
+2. Clique em "uploading an existing file" (ou Add file > Upload files).
+
+3. Envie todo o conteúdo desta pasta, preservando a subpasta "figuras". Não
+   envie a pasta externa "figuras-lineamento-tiete-raa-2026" como um nível
+   adicional: o README.md deve ficar na raiz do repositório.
+
+4. Confira se as três imagens aparecem no README.
+
+5. Crie uma versão (Release), por exemplo "v1.0 — RAA PRH-ANP 2026".
+
+6. Para obter uma citação permanente, conecte o repositório ao Zenodo e gere
+   um DOI para a Release. Depois, substitua no resumo o link do GitHub pelo DOI
+   ou mantenha ambos.
+
+TEXTO CURTO PARA O RESUMO
+
+As Figuras 1–3 e os produtos digitais suplementares estão disponíveis no
+repositório: https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026.
+
+TEXTO COM LINKS ADICIONAIS
+
+As Figuras 1–3 e os produtos digitais suplementares estão disponíveis no
+repositório https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026,
+incluindo acesso à visualização interativa e às superfícies 3D
+(https://daniellesimeao.github.io/Superficies-3D/) e ao conjunto de dados
+depositado no Zenodo (https://zenodo.org/records/22003377).
