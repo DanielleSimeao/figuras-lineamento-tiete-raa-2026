@@ -9,7 +9,7 @@ PASSOS PARA PUBLICAR NO GITHUB
    envie a pasta externa "figuras-lineamento-tiete-raa-2026" como um nível
    adicional: o README.md deve ficar na raiz do repositório.
 
-4. Confira se as três imagens aparecem no README.
+4. Confira se as seis imagens aparecem no README.
 
 5. Crie uma versão (Release), por exemplo "v1.0 — RAA PRH-ANP 2026".
 
@@ -19,12 +19,12 @@ PASSOS PARA PUBLICAR NO GITHUB
 
 TEXTO CURTO PARA O RESUMO
 
-As Figuras 1–3 e os produtos digitais suplementares estão disponíveis no
+As Figuras 1–6 e os produtos digitais suplementares estão disponíveis no
 repositório: https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026.
 
 TEXTO COM LINKS ADICIONAIS
 
-As Figuras 1–3 e os produtos digitais suplementares estão disponíveis no
+As Figuras 1–6 e os produtos digitais suplementares estão disponíveis no
 repositório https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026,
 incluindo acesso à visualização interativa e às superfícies 3D
 (https://daniellesimeao.github.io/Superficies-3D/) e ao conjunto de dados

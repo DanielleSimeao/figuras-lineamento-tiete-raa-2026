@@ -11,7 +11,7 @@ url: "https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026"
 abstract: >-
   Figuras suplementares usadas para discutir a hipótese de uma possível projeção
   do Lineamento Tietê em direção à Bacia de Santos, com integração de
-  sensoriamento remoto, gravimetria e magnetometria.
+  sensoriamento remoto, gravimetria, magnetometria e dados sísmicos.
 keywords:
   - "Lineamento Tietê"
   - "Bacia de Santos"
@@ -19,3 +19,4 @@ keywords:
   - "gravimetria"
   - "magnetometria"
   - "métodos potenciais"
+  - "sísmica"

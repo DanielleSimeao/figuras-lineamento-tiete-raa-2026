@@ -4,7 +4,7 @@ Material gráfico suplementar do resumo submetido ao Encontro Nacional do PRH-AN
 
 ## Escopo e cautela interpretativa
 
-As figuras documentam os dados e as relações espaciais usados para **discutir a hipótese** de uma possível projeção do Lineamento Tietê do continente em direção à Bacia de Santos. As correspondências cartográficas, morfoestruturais e geofísicas apresentadas **não constituem confirmação de continuidade tectônica**. A interpretação deve ser considerada uma hipótese de trabalho, sujeita a testes adicionais.
+As seis figuras documentam os dados e as relações espaciais usados para **discutir a hipótese** de uma possível projeção do Lineamento Tietê do continente em direção à Bacia de Santos. As correspondências cartográficas, morfoestruturais, geofísicas e sísmicas apresentadas **não constituem confirmação de continuidade tectônica**. A interpretação deve ser considerada uma hipótese de trabalho, sujeita a testes adicionais.
 
 ## Figuras
 
@@ -31,6 +31,30 @@ As figuras documentam os dados e as relações espaciais usados para **discutir 
 ![Figura 3 — Produtos gravimétricos e magnetométricos](figuras/figura-03-metodos-potenciais.png)
 
 **Legenda:** Produtos de métodos potenciais utilizados na análise regional. (A) Anomalia Bouguer (AB); (B) Anomalia Bouguer com realce sombreado; (C) Anomalia de ar livre (AFA); (D) Anomalia de ar livre com realce sombreado; (E) campo magnético reduzido ao polo (RTP); (F) amplitude do sinal analítico (ASA); (G) derivada horizontal em X (DX); e (H) derivada horizontal em Y (DY). O segmento central é apresentado como referência para comparar sua expressão superficial com gradientes e variações dos campos potenciais.
+
+### Figura 4 — Integração dos métodos potenciais continentais e marinhos
+
+[Abrir em resolução completa](figuras/figura-04-integracao-metodos-potenciais.jpg)
+
+![Figura 4 — Integração dos métodos potenciais continentais e marinhos](figuras/figura-04-integracao-metodos-potenciais.jpg)
+
+**Legenda:** Integração dos dados de métodos potenciais continentais e marinhos ao longo do traçado do Lineamento Tietê (LT). A integração foi realizada em ambiente SIG através da compatibilização espacial e sobreposição de grids georreferenciados, visando à correlação de feições estruturais entre os domínios. (A) Redução ao polo (RTP) dos dados continentais integrada ao levantamento magnetométrico marinho proximal P040; (B) RTP dos dados continentais integrada ao levantamento magnetométrico marinho distal P0141; (C) Anomalia Bouguer continental e marinha (P0141); (D) Anomalia Free-Air continental e marinha (P0141).
+
+### Figura 5 — Principais feições estruturais nas seções sísmicas
+
+[Abrir em resolução completa](figuras/figura-05-feicoes-estruturais-secoes-sismicas.jpg)
+
+![Figura 5 — Principais feições estruturais nas seções sísmicas](figuras/figura-05-feicoes-estruturais-secoes-sismicas.jpg)
+
+**Legenda:** Principais feições estruturais observadas nas seções sísmicas. Elaborado pela autora a partir de dados sísmicos obtidos no Banco de Dados de Exploração e Produção (BDEP/ANP).
+
+### Figura 6 — Integração das seções sísmicas interpretadas
+
+[Abrir em resolução completa](figuras/figura-06-integracao-secoes-sismicas.png)
+
+![Figura 6 — Integração das seções sísmicas interpretadas](figuras/figura-06-integracao-secoes-sismicas.png)
+
+**Legenda:** Integração das principais seções sísmicas (*strikes*) interpretadas, com a projeção hipotética do Lineamento Tietê indicada pelo tracejado em preto.
 
 ## Produtos digitais relacionados
 
