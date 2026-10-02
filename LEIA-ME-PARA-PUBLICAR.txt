@@ -5,11 +5,17 @@ PASSOS PARA PUBLICAR NO GITHUB
 
 2. Clique em "uploading an existing file" (ou Add file > Upload files).
 
-3. Envie todo o conteúdo desta pasta, preservando a subpasta "figuras". Não
-   envie a pasta externa "figuras-lineamento-tiete-raa-2026" como um nível
-   adicional: o README.md deve ficar na raiz do repositório.
+3. Envie o README.md, o CITATION.cff, o index.html, o arquivo logo-prh-anp.webp
+   e as nove imagens diretamente para a raiz do repositório. Todos os arquivos
+   devem ficar no mesmo nível, sem uma subpasta chamada "figuras".
 
-4. Confira se as seis imagens aparecem no README.
+4. Confira se as nove imagens aparecem no README e se o visualizador permite
+   navegar da Figura 1 à Figura 9.
+
+4.1 Para publicar o visualizador como página, abra Settings > Pages, escolha
+    "Deploy from a branch", selecione a branch main e a pasta /(root). Após a
+    publicação, o endereço esperado será:
+    https://daniellesimeao.github.io/figuras-lineamento-tiete-raa-2026/
 
 5. Crie uma versão (Release), por exemplo "v1.0 — RAA PRH-ANP 2026".
 
@@ -19,12 +25,12 @@ PASSOS PARA PUBLICAR NO GITHUB
 
 TEXTO CURTO PARA O RESUMO
 
-As Figuras 1–6 e os produtos digitais suplementares estão disponíveis no
+As Figuras 1–9 e os produtos digitais suplementares estão disponíveis no
 repositório: https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026.
 
 TEXTO COM LINKS ADICIONAIS
 
-As Figuras 1–6 e os produtos digitais suplementares estão disponíveis no
+As Figuras 1–9 e os produtos digitais suplementares estão disponíveis no
 repositório https://github.com/DanielleSimeao/figuras-lineamento-tiete-raa-2026,
 incluindo acesso à visualização interativa e às superfícies 3D
 (https://daniellesimeao.github.io/Superficies-3D/) e ao conjunto de dados

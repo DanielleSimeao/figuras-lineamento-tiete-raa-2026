@@ -347,7 +347,7 @@
   <main>
     <section class="galeria" aria-label="Galeria de figuras científicas">
       <div class="topo-galeria">
-        <span class="contador" id="contador">Figura 1 de 6</span>
+        <span class="contador" id="contador">Figura 1 de 9</span>
         <label>
           <span class="sr-only">Selecionar figura</span>
           <select id="seletor" aria-label="Selecionar figura"></select>
@@ -389,34 +389,49 @@
   <script>
     const figuras = [
       {
-        arquivo: "figura-01-contexto-geologico-estrutural.png",
-        titulo: "Figura 1 — Contexto geológico-estrutural regional",
-        legenda: "Localização e contexto geológico-estrutural da área de estudo. (A) Distribuição das principais unidades cronoestratigráficas, bacias sedimentares e rede hidrográfica na porção continental investigada. (B) Principais lineamentos de orientação NW–SE reconhecidos no estado de São Paulo, com destaque para o Lineamento Tietê. (C) Comparação entre diferentes posicionamentos cartográficos atribuídos ao Lineamento Tietê. As unidades geológicas foram compiladas a partir de dados do Serviço Geológico do Brasil, disponibilizados pela plataforma GeoSGB."
+        arquivo: "figura-01-contexto-bacia-santos.jpg",
+        titulo: "Figura 1 — Contexto regional da Bacia de Santos",
+        legenda: "(A) Localização da área de estudo na porção centro-norte da Bacia de Santos, com indicação dos principais campos, sub-bacias e feições estruturais regionais sobre o mapa do embasamento econômico modificado de Freitas et al. (2022); e (B) carta estratigráfica simplificada da Bacia de Santos, destacando as principais sequências deposicionais, fases tectônicas e horizontes interpretados. Base cartográfica elaborada pela autora a partir de dados de GEBCO (2025), IBGE, ANP/BDEP e SRTM/TOPODATA."
       },
       {
-        arquivo: "figura-02-lineamentos-dominio-nw-se.png",
-        titulo: "Figura 2 — Expressão espacial do domínio NW–SE",
-        legenda: "Expressão espacial do domínio azimutal D4 (NW–SE) e compartimentação dos alinhamentos estruturais. (A) Distribuição dos lineamentos atribuídos ao domínio D4; (B) densidade dos lineamentos e segmentos setentrional, central e meridional reconhecidos a partir das zonas alongadas de maior concentração; e (C) relação entre o segmento central, os limites das bacias sedimentares e a compartimentação da declividade. Os segmentos representam eixos interpretativos e não são, isoladamente, associados a uma estrutura tectônica específica."
+        arquivo: "figura-02-contexto-continental.png",
+        titulo: "Figura 2 — Contexto geológico-estrutural continental",
+        legenda: "Localização e contexto geológico-estrutural da área de estudo continental. (A) Distribuição das principais unidades cronoestratigráficas, bacias sedimentares e rede hidrográfica; (B) principais lineamentos de orientação NW–SE reconhecidos no estado de São Paulo, com destaque para o Lineamento Tietê; e (C) comparação entre diferentes posicionamentos cartográficos atribuídos ao Lineamento Tietê por Coimbra et al. (1977), Riccomini (1995) e Saad (1977). As unidades geológicas foram compiladas a partir de dados do Serviço Geológico do Brasil (SGB), disponibilizados pela plataforma GeoSGB."
       },
       {
-        arquivo: "figura-03-metodos-potenciais.png",
-        titulo: "Figura 3 — Produtos gravimétricos e magnetométricos",
-        legenda: "Produtos de métodos potenciais utilizados na análise regional. (A) Anomalia Bouguer (AB); (B) Anomalia Bouguer com realce sombreado; (C) Anomalia de ar livre (AFA); (D) Anomalia de ar livre com realce sombreado; (E) campo magnético reduzido ao polo (RTP); (F) amplitude do sinal analítico (ASA); (G) derivada horizontal em X (DX); e (H) derivada horizontal em Y (DY). O segmento central é apresentado como referência para comparar sua expressão superficial com gradientes e variações dos campos potenciais."
+        arquivo: "figura-03-fluxograma-lineamentos.png",
+        titulo: "Figura 3 — Fluxograma de extração e análise dos lineamentos",
+        legenda: "Fluxograma dos procedimentos empregados no processamento dos dados SRTM e na interpretação morfoestrutural dos lineamentos, adaptado com base nas metodologias descritas por Souza (2008), Bricalli (2016) e Ndatuwong (2022). A partir do modelo digital de elevação foram produzidos o mapa de declividade e oito modelos de relevo sombreado, utilizados na extração manual, sobreposição e análise dos lineamentos, na elaboração dos diagramas de roseta e na geração do mapa de densidade."
       },
       {
-        arquivo: "figura-04-integracao-metodos-potenciais.jpg",
-        titulo: "Figura 4 — Integração dos métodos potenciais continentais e marinhos",
-        legenda: "Integração dos dados de métodos potenciais continentais e marinhos ao longo do traçado do Lineamento Tietê (LT). A integração foi realizada em ambiente SIG através da compatibilização espacial e sobreposição de grids georreferenciados, visando à correlação de feições estruturais entre os domínios. (A) Redução ao polo (RTP) dos dados continentais integrada ao levantamento magnetométrico marinho proximal P040; (B) RTP dos dados continentais integrada ao levantamento magnetométrico marinho distal P0141; (C) Anomalia Bouguer continental e marinha (P0141); (D) Anomalia Free-Air continental e marinha (P0141)."
+        arquivo: "figura-04-distribuicao-lineamentos.png",
+        titulo: "Figura 4 — Distribuição espacial dos lineamentos continentais",
+        legenda: "Distribuição espacial dos 4.731 lineamentos interpretados a partir de produtos SRTM, em escala 1:250.000, na porção continental da área de estudo. Os diagramas apresentam a frequência das orientações e o comprimento acumulado dos lineamentos em classes angulares de 10°. LBP: limite da Bacia do Paraná; LBS: limite da Bacia de São Paulo; LBT: limite da Bacia de Taubaté."
       },
       {
-        arquivo: "figura-05-feicoes-estruturais-secoes-sismicas.jpg",
-        titulo: "Figura 5 — Principais feições estruturais nas seções sísmicas",
-        legenda: "Principais feições estruturais observadas nas seções sísmicas. Elaborado pela autora a partir de dados sísmicos obtidos no Banco de Dados de Exploração e Produção (BDEP/ANP)."
+        arquivo: "figura-05-dominio-nw-se.png",
+        titulo: "Figura 5 — Expressão espacial do domínio NW–SE",
+        legenda: "Expressão espacial do domínio azimutal D4 (NW–SE) e compartimentação dos alinhamentos estruturais. (A) Distribuição dos lineamentos atribuídos ao domínio D4 pelo critério de máxima probabilidade; (B) densidade dos lineamentos e segmentos setentrional, central e meridional reconhecidos a partir das zonas alongadas de maior concentração; e (C) relação entre o segmento central, os limites das bacias sedimentares e a compartimentação da declividade. Os segmentos representam eixos interpretativos e não são, isoladamente, associados diretamente a uma estrutura tectônica específica."
       },
       {
-        arquivo: "figura-06-integracao-secoes-sismicas.png",
-        titulo: "Figura 6 — Integração das seções sísmicas interpretadas",
-        legenda: "Integração das principais seções sísmicas (strikes) interpretadas, com a projeção hipotética do Lineamento Tietê indicada pelo tracejado em preto."
+        arquivo: "figura-06-metodos-potenciais-continentais.png",
+        titulo: "Figura 6 — Produtos gravimétricos e magnetométricos continentais",
+        legenda: "Produtos de métodos potenciais utilizados na análise regional continental. (A) Anomalia Bouguer (AB); (B) Anomalia Bouguer com realce sombreado; (C) Anomalia de ar livre (AFA); (D) Anomalia de ar livre com realce sombreado; (E) campo magnético reduzido ao polo (RTP); (F) amplitude do sinal analítico (ASA); (G) derivada horizontal em X (DX); e (H) derivada horizontal em Y (DY). O segmento central é apresentado como referência para comparar sua expressão superficial com os gradientes e as variações dos campos potenciais."
+      },
+      {
+        arquivo: "figura-07-integracao-potenciais.jpg",
+        titulo: "Figura 7 — Integração dos métodos potenciais continentais e marinhos",
+        legenda: "Integração dos dados de métodos potenciais continentais e marinhos ao longo do traçado do Lineamento Tietê (LT). A integração foi realizada em ambiente SIG por meio da compatibilização espacial e sobreposição de grids georreferenciados. (A) Redução ao polo (RTP) dos dados continentais integrada ao levantamento magnetométrico marinho proximal P040; (B) RTP dos dados continentais integrada ao levantamento magnetométrico marinho distal P0141; (C) Anomalia Bouguer continental e marinha (P0141); e (D) Anomalia Free-Air continental e marinha (P0141)."
+      },
+      {
+        arquivo: "figura-08-feicoes-sismicas.jpg",
+        titulo: "Figura 8 — Principais feições estruturais nas seções sísmicas",
+        legenda: "Principais feições estruturais identificadas nas seções sísmicas, incluindo altos e baixos do embasamento e do rifte, falhas de alto ângulo, geometria interpretada como estrutura em flor negativa e relações entre estruturas subsal e deformação pós-sal. Elaborado pela autora a partir de dados sísmicos obtidos no Banco de Dados de Exploração e Produção da ANP (BDEP/ANP)."
+      },
+      {
+        arquivo: "figura-09-integracao-sismica.png",
+        titulo: "Figura 9 — Integração das seções sísmicas interpretadas",
+        legenda: "Integração das principais seções sísmicas (strikes) interpretadas com a projeção do corredor associado ao Lineamento Tietê, indicada pelo tracejado em preto, destacando a relação espacial e a correspondência estrutural nos intervalos subsal e pós-sal."
       }
     ];
 
@@ -463,6 +478,9 @@
         ponto.classList.toggle("ativo", i === indice);
         ponto.setAttribute("aria-current", i === indice ? "true" : "false");
       });
+      const url = new URL(window.location.href);
+      url.searchParams.set("figura", indice + 1);
+      window.history.replaceState({}, "", url);
     }
 
     function aplicarTransformacao() {
@@ -531,7 +549,10 @@
       if (event.key === "ArrowRight") mostrar(indice + 1);
     });
 
-    mostrar(0);
+    const figuraSolicitada = Number(new URLSearchParams(window.location.search).get("figura"));
+    mostrar(Number.isInteger(figuraSolicitada) && figuraSolicitada >= 1 && figuraSolicitada <= figuras.length
+      ? figuraSolicitada - 1
+      : 0);
   </script>
 </body>
 </html>
